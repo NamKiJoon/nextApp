@@ -1,5 +1,3 @@
-import { useEffect } from "react";
-
 export const Header = () => {
   return (
     <div className="">
