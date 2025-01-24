@@ -1,18 +1,9 @@
-import { useEffect } from "react"
+import { useEffect } from "react";
 
-export const Header = () =>{
-    useEffect(()=>{
-        const user = {
-            firstName: "Angela",
-            lastName: "Davis",
-            role: "Professor",
-          }
-           
-          console.log(user)
-    })
-    return(
-        <div>
-            Header
-        </div>
-    )
-}
+export const Header = () => {
+  return (
+    <div className="">
+      <button className="bg-sky-500 hover:bg-sky-700 ...">Hi</button>
+    </div>
+  );
+};

@@ -1,5 +1,3 @@
-export const Dashboard =()=>{
-    return (
-        <div>Dashboard</div>
-    )
-}
+export const Dashboard = () => {
+  return <div>D</div>;
+};
