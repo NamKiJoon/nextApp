@@ -1,9 +1,5 @@
-import Link from "next/link"
+import Link from "next/link";
 
-export const Main = () =>{
-    return(
-        <div>
-            
-        </div>
-    )
-}
+export const Main = () => {
+  return <div>main</div>;
+};
